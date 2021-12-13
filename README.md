@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CodingRustee
+- 👀 I’m interested in Videogames, anime and coding
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on nothing.. yet
